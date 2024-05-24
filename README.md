@@ -71,7 +71,12 @@ Features:
     To build and run the task management application
 
         Prerequisites:
-            Ensure you have Elixir and Phoenix Framework installed on your system. You can follow the installation instructions from the [official website](https://elixir-lang.org/install.html) and [Phoenix installation guide](https://hexdocs.pm/phoenix/installation.html)
+            Ensure you have Elixir and Phoenix Framework installed on your system. You can follow the installation instructions from the following:
+              * Official website: https://www.phoenixframework.org/
+              * Guides: https://hexdocs.pm/phoenix/overview.html
+              * Docs: https://hexdocs.pm/phoenix
+              * Forum: https://elixirforum.com/c/phoenix-forum
+              * Source: https://github.com/phoenixframework/phoenix
 
         Setup:
             Clone the repository containing the application source code:
